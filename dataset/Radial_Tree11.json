@@ -1,0 +1,2068 @@
+[
+    {
+        "id": 1,
+        "name": "cardiovascular disease (CVD)",
+        "size": 276.755966,
+        "group": 1
+    },
+    {
+        "id": 3,
+        "name": {
+            "label": "heart failure (HF)",
+            "record": 1.218759292
+        },
+        "parent": 1,
+        "size": 1.218759292,
+        "group": 2
+    },
+    {
+        "id": 4,
+        "name": {
+            "label": "risk factors",
+            "record": 1.244010672
+        },
+        "parent": 2,
+        "size": 1.244010672,
+        "group": 3
+    },
+    {
+        "id": 5,
+        "name": {
+            "label": "Multiple myeloma (MM)",
+            "record": 1.1058044679999999
+        },
+        "parent": 1,
+        "size": 1.1058044679999999,
+        "group": 4
+    },
+    {
+        "id": 6,
+        "name": {
+            "label": "type 2 diabetes (T2D)",
+            "record": 1.311569079
+        },
+        "parent": 4,
+        "size": 1.311569079,
+        "group": 3
+    },
+    {
+        "id": 7,
+        "name": {
+            "label": "coronary artery disease (CAD)",
+            "record": 1.229147148
+        },
+        "parent": 4,
+        "size": 1.229147148,
+        "group": 3
+    },
+    {
+        "id": 8,
+        "name": {
+            "label": "gene expression",
+            "record": 1.395795689
+        },
+        "parent": 3,
+        "size": 1.395795689,
+        "group": 5
+    },
+    {
+        "id": 9,
+        "name": {
+            "label": "cardiac magnetic resonance imaging",
+            "record": 0.275888327
+        },
+        "parent": 2,
+        "size": 0.275888327,
+        "group": 1
+    },
+    {
+        "id": 10,
+        "name": {
+            "label": "blood pressure (BP)",
+            "record": 1.052251755
+        },
+        "parent": 5,
+        "size": 1.052251755,
+        "group": 4
+    },
+    {
+        "id": 11,
+        "name": {
+            "label": "insulin resistance (HOMA-IR)",
+            "record": 1.1374337559999999
+        },
+        "parent": 6,
+        "size": 1.1374337559999999,
+        "group": 6
+    },
+    {
+        "id": 12,
+        "name": {
+            "label": "acute myocardial infarction (AMI)",
+            "record": 1.090408825
+        },
+        "parent": 2,
+        "size": 1.090408825,
+        "group": 7
+    },
+    {
+        "id": 13,
+        "name": {
+            "label": "single nucleotide polymorphisms (SNPs)",
+            "record": 1.023655516
+        },
+        "parent": 7,
+        "size": 1.023655516,
+        "group": 8
+    },
+    {
+        "id": 14,
+        "name": {
+            "label": "arachidonic acid",
+            "record": 0.343664885
+        },
+        "parent": 1,
+        "size": 0.343664885,
+        "group": 0
+    },
+    {
+        "id": 15,
+        "name": {
+            "label": "cardiac hypertrophy (CH)",
+            "record": 0.997108215
+        },
+        "parent": 3,
+        "size": 0.997108215,
+        "group": 2
+    },
+    {
+        "id": 16,
+        "name": {
+            "label": "microRNAs (miRNAs)",
+            "record": 1.172673938
+        },
+        "parent": 8,
+        "size": 1.172673938,
+        "group": 5
+    },
+    {
+        "id": 17,
+        "name": {
+            "label": "sudden death",
+            "record": 0.5702909829999999
+        },
+        "parent": 9,
+        "size": 0.5702909829999999,
+        "group": 9
+    },
+    {
+        "id": 18,
+        "name": {
+            "label": "diabetic retinopathy (DR)",
+            "record": 0.8426953000000001
+        },
+        "parent": 6,
+        "size": 0.8426953000000001,
+        "group": 3
+    },
+    {
+        "id": 19,
+        "name": {
+            "label": "genetic factors",
+            "record": 1.111118585
+        },
+        "parent": 4,
+        "size": 1.111118585,
+        "group": 10
+    },
+    {
+        "id": 20,
+        "name": {
+            "label": "coronary heart disease (CHD)",
+            "record": 1.132375338
+        },
+        "parent": 13,
+        "size": 1.132375338,
+        "group": 8
+    },
+    {
+        "id": 21,
+        "name": {
+            "label": "endothelial cells (ECs)",
+            "record": 1.274856609
+        },
+        "parent": 10,
+        "size": 1.274856609,
+        "group": 11
+    },
+    {
+        "id": 22,
+        "name": {
+            "label": "dilated cardiomyopathy (DCM)",
+            "record": 1.013466513
+        },
+        "parent": 3,
+        "size": 1.013466513,
+        "group": 2
+    },
+    {
+        "id": 23,
+        "name": {
+            "label": "DNA methylation",
+            "record": 0.86669111
+        },
+        "parent": 8,
+        "size": 0.86669111,
+        "group": 5
+    },
+    {
+        "id": 24,
+        "name": {
+            "label": "metabolic diseases",
+            "record": 0.818491249
+        },
+        "parent": 11,
+        "size": 0.818491249,
+        "group": 6
+    },
+    {
+        "id": 25,
+        "name": {
+            "label": "respiratory diseases",
+            "record": 0.069022015
+        },
+        "parent": 1,
+        "size": 0.069022015,
+        "group": 0
+    },
+    {
+        "id": 26,
+        "name": {
+            "label": "genetic information",
+            "record": 0.219460457
+        },
+        "parent": 2,
+        "size": 0.219460457,
+        "group": 12
+    },
+    {
+        "id": 27,
+        "name": {
+            "label": "tissue levels",
+            "record": 0.163845866
+        },
+        "parent": 12,
+        "size": 0.163845866,
+        "group": 7
+    },
+    {
+        "id": 28,
+        "name": {
+            "label": "diabetes mellitus (DM)",
+            "record": 1.137330518
+        },
+        "parent": 19,
+        "size": 1.137330518,
+        "group": 10
+    },
+    {
+        "id": 29,
+        "name": {
+            "label": "prenatal diagnosis",
+            "record": 0.695985066
+        },
+        "parent": 17,
+        "size": 0.695985066,
+        "group": 9
+    },
+    {
+        "id": 30,
+        "name": {
+            "label": "epigenetic mechanisms",
+            "record": 0.42124930299999996
+        },
+        "parent": 23,
+        "size": 0.42124930299999996,
+        "group": 5
+    },
+    {
+        "id": 31,
+        "name": {
+            "label": "oxidative stress (OS)",
+            "record": 1.344263161
+        },
+        "parent": 5,
+        "size": 1.344263161,
+        "group": 4
+    },
+    {
+        "id": 32,
+        "name": {
+            "label": "protective effect",
+            "record": 1.400480405
+        },
+        "parent": 10,
+        "size": 1.400480405,
+        "group": 4
+    },
+    {
+        "id": 33,
+        "name": {
+            "label": "sudden cardiac death (SCD)",
+            "record": 0.753050275
+        },
+        "parent": 17,
+        "size": 0.753050275,
+        "group": 9
+    },
+    {
+        "id": 34,
+        "name": {
+            "label": "heart disease",
+            "record": 0.946720963
+        },
+        "parent": 22,
+        "size": 0.946720963,
+        "group": 2
+    },
+    {
+        "id": 35,
+        "name": {
+            "label": "hypertrophic cardiomyopathy (HCM)",
+            "record": 0.770904977
+        },
+        "parent": 9,
+        "size": 0.770904977,
+        "group": 1
+    },
+    {
+        "id": 36,
+        "name": {
+            "label": "genome-wide association studies (GWAS)",
+            "record": 0.49540629
+        },
+        "parent": 18,
+        "size": 0.49540629,
+        "group": 3
+    },
+    {
+        "id": 37,
+        "name": {
+            "label": "Ischemic stroke (IS)",
+            "record": 1.207148395
+        },
+        "parent": 21,
+        "size": 1.207148395,
+        "group": 11
+    },
+    {
+        "id": 38,
+        "name": {
+            "label": "cardiac function",
+            "record": 1.031192932
+        },
+        "parent": 12,
+        "size": 1.031192932,
+        "group": 7
+    },
+    {
+        "id": 39,
+        "name": {
+            "label": "cardiovascular system",
+            "record": 0.956369149
+        },
+        "parent": 11,
+        "size": 0.956369149,
+        "group": 6
+    },
+    {
+        "id": 40,
+        "name": {
+            "label": "mouse model",
+            "record": 1.276556636
+        },
+        "parent": 21,
+        "size": 1.276556636,
+        "group": 11
+    },
+    {
+        "id": 41,
+        "name": {
+            "label": "heart development",
+            "record": 0.142355137
+        },
+        "parent": 15,
+        "size": 0.142355137,
+        "group": 2
+    },
+    {
+        "id": 42,
+        "name": {
+            "label": "aortic dissection",
+            "record": 0.147887303
+        },
+        "parent": 9,
+        "size": 0.147887303,
+        "group": 1
+    },
+    {
+        "id": 43,
+        "name": {
+            "label": "bipolar disorder",
+            "record": 0.056841659
+        },
+        "parent": 6,
+        "size": 0.056841659,
+        "group": 3
+    },
+    {
+        "id": 44,
+        "name": {
+            "label": "intraperitoneal injection",
+            "record": 0.242402815
+        },
+        "parent": 14,
+        "size": 0.242402815,
+        "group": 0
+    },
+    {
+        "id": 45,
+        "name": {
+            "label": "genetic testing",
+            "record": 0.714600055
+        },
+        "parent": 33,
+        "size": 0.714600055,
+        "group": 9
+    },
+    {
+        "id": 46,
+        "name": {
+            "label": "Turner syndrome (TS)",
+            "record": 0.312769599
+        },
+        "parent": 29,
+        "size": 0.312769599,
+        "group": 9
+    },
+    {
+        "id": 47,
+        "name": {
+            "label": "underlying molecular mechanisms",
+            "record": 1.3824715019999998
+        },
+        "parent": 32,
+        "size": 1.3824715019999998,
+        "group": 4
+    },
+    {
+        "id": 48,
+        "name": {
+            "label": "adverse effects",
+            "record": 0.582448492
+        },
+        "parent": 25,
+        "size": 0.582448492,
+        "group": 0
+    },
+    {
+        "id": 49,
+        "name": {
+            "label": "trisomy 18",
+            "record": 0.889571588
+        },
+        "parent": 29,
+        "size": 0.889571588,
+        "group": 9
+    },
+    {
+        "id": 50,
+        "name": {
+            "label": "cerebral ischemia",
+            "record": 0.659880034
+        },
+        "parent": 37,
+        "size": 0.659880034,
+        "group": 11
+    },
+    {
+        "id": 51,
+        "name": {
+            "label": "fabry disease (FD)",
+            "record": 0.705991313
+        },
+        "parent": 35,
+        "size": 0.705991313,
+        "group": 1
+    },
+    {
+        "id": 52,
+        "name": {
+            "label": "acute coronary syndrome (ACS)",
+            "record": 0.797089299
+        },
+        "parent": 19,
+        "size": 0.797089299,
+        "group": 10
+    },
+    {
+        "id": 53,
+        "name": {
+            "label": "metabolic syndrome (MetS)",
+            "record": 0.924837902
+        },
+        "parent": 11,
+        "size": 0.924837902,
+        "group": 6
+    },
+    {
+        "id": 54,
+        "name": {
+            "label": "skeletal muscle",
+            "record": 0.7232588390000001
+        },
+        "parent": 34,
+        "size": 0.7232588390000001,
+        "group": 2
+    },
+    {
+        "id": 55,
+        "name": {
+            "label": "epigenetic Regulation",
+            "record": 0.40837537
+        },
+        "parent": 23,
+        "size": 0.40837537,
+        "group": 5
+    },
+    {
+        "id": 56,
+        "name": {
+            "label": "genetic polymorphisms",
+            "record": 0.458364657
+        },
+        "parent": 13,
+        "size": 0.458364657,
+        "group": 8
+    },
+    {
+        "id": 57,
+        "name": {
+            "label": "body mass index (BMI)",
+            "record": 0.854496351
+        },
+        "parent": 28,
+        "size": 0.854496351,
+        "group": 10
+    },
+    {
+        "id": 58,
+        "name": {
+            "label": "cardiovascular disease (CVD) risk factors",
+            "record": 1.033697264
+        },
+        "parent": 7,
+        "size": 1.033697264,
+        "group": 3
+    },
+    {
+        "id": 59,
+        "name": {
+            "label": "stem cells",
+            "record": 0.707153448
+        },
+        "parent": 38,
+        "size": 0.707153448,
+        "group": 7
+    },
+    {
+        "id": 60,
+        "name": {
+            "label": "Anti-Inflammatory Activity",
+            "record": 0.352377929
+        },
+        "parent": 14,
+        "size": 0.352377929,
+        "group": 0
+    },
+    {
+        "id": 61,
+        "name": {
+            "label": "signaling pathways",
+            "record": 0.41056010600000004
+        },
+        "parent": 16,
+        "size": 0.41056010600000004,
+        "group": 5
+    },
+    {
+        "id": 62,
+        "name": {
+            "label": "muscle weakness",
+            "record": 0.023046777
+        },
+        "parent": 3,
+        "size": 0.023046777,
+        "group": 2
+    },
+    {
+        "id": 63,
+        "name": {
+            "label": "Hereditary Haemorrhagic Telangiectasia (HHT)",
+            "record": 0.41270113
+        },
+        "parent": 26,
+        "size": 0.41270113,
+        "group": 12
+    },
+    {
+        "id": 64,
+        "name": {
+            "label": "lung cancer",
+            "record": 0.08981581599999999
+        },
+        "parent": 25,
+        "size": 0.08981581599999999,
+        "group": 0
+    },
+    {
+        "id": 65,
+        "name": {
+            "label": "nitric oxide (NO)",
+            "record": 0.6397053779999999
+        },
+        "parent": 27,
+        "size": 0.6397053779999999,
+        "group": 7
+    },
+    {
+        "id": 66,
+        "name": {
+            "label": "platelet activation",
+            "record": 0.570264788
+        },
+        "parent": 14,
+        "size": 0.570264788,
+        "group": 0
+    },
+    {
+        "id": 67,
+        "name": {
+            "label": "endothelial progenitor cells (EPCs)",
+            "record": 0.016939676
+        },
+        "parent": 10,
+        "size": 0.016939676,
+        "group": 4
+    },
+    {
+        "id": 68,
+        "name": {
+            "label": "ischemic heart disease (IHD)",
+            "record": 0.598237716
+        },
+        "parent": 12,
+        "size": 0.598237716,
+        "group": 7
+    },
+    {
+        "id": 69,
+        "name": {
+            "label": "coding region",
+            "record": 0.161300642
+        },
+        "parent": 39,
+        "size": 0.161300642,
+        "group": 6
+    },
+    {
+        "id": 70,
+        "name": {
+            "label": "lipid metabolism",
+            "record": 0.630296334
+        },
+        "parent": 24,
+        "size": 0.630296334,
+        "group": 6
+    },
+    {
+        "id": 71,
+        "name": {
+            "label": "congenital heart disease (CHD)",
+            "record": 1.264726136
+        },
+        "parent": 47,
+        "size": 1.264726136,
+        "group": 13
+    },
+    {
+        "id": 72,
+        "name": {
+            "label": "transcription factors",
+            "record": 0.602488652
+        },
+        "parent": 24,
+        "size": 0.602488652,
+        "group": 6
+    },
+    {
+        "id": 73,
+        "name": {
+            "label": "chronic diseases",
+            "record": 0.6145466270000001
+        },
+        "parent": 30,
+        "size": 0.6145466270000001,
+        "group": 5
+    },
+    {
+        "id": 74,
+        "name": {
+            "label": "multivariate analysis",
+            "record": 0.8042861440000001
+        },
+        "parent": 52,
+        "size": 0.8042861440000001,
+        "group": 10
+    },
+    {
+        "id": 75,
+        "name": {
+            "label": "Behcet disease",
+            "record": 0.700012856
+        },
+        "parent": 56,
+        "size": 0.700012856,
+        "group": 8
+    },
+    {
+        "id": 76,
+        "name": {
+            "label": "real-time polymerase chain reaction (PCR)",
+            "record": 0.9058268629999999
+        },
+        "parent": 10,
+        "size": 0.9058268629999999,
+        "group": 4
+    },
+    {
+        "id": 77,
+        "name": {
+            "label": "case-control study",
+            "record": 0.651076103
+        },
+        "parent": 13,
+        "size": 0.651076103,
+        "group": 8
+    },
+    {
+        "id": 78,
+        "name": {
+            "label": "brugada Syndrome (BrS)",
+            "record": 0.286636548
+        },
+        "parent": 33,
+        "size": 0.286636548,
+        "group": 9
+    },
+    {
+        "id": 79,
+        "name": {
+            "label": "biological processes",
+            "record": 0.44167194
+        },
+        "parent": 64,
+        "size": 0.44167194,
+        "group": 0
+    },
+    {
+        "id": 80,
+        "name": {
+            "label": "genetic variants",
+            "record": 0.765071169
+        },
+        "parent": 13,
+        "size": 0.765071169,
+        "group": 8
+    },
+    {
+        "id": 81,
+        "name": {
+            "label": "Marfan syndrome (MFS)",
+            "record": 0.474460783
+        },
+        "parent": 42,
+        "size": 0.474460783,
+        "group": 1
+    },
+    {
+        "id": 82,
+        "name": {
+            "label": "bone marrow (BM)",
+            "record": 0.430549674
+        },
+        "parent": 26,
+        "size": 0.430549674,
+        "group": 12
+    },
+    {
+        "id": 83,
+        "name": {
+            "label": "family history",
+            "record": 0.6473119629999999
+        },
+        "parent": 57,
+        "size": 0.6473119629999999,
+        "group": 10
+    },
+    {
+        "id": 84,
+        "name": {
+            "label": "Precision Medicine",
+            "record": 0.446805292
+        },
+        "parent": 26,
+        "size": 0.446805292,
+        "group": 12
+    },
+    {
+        "id": 85,
+        "name": {
+            "label": "Pulmonary arterial hypertension (PAH)",
+            "record": 0.575525635
+        },
+        "parent": 60,
+        "size": 0.575525635,
+        "group": 0
+    },
+    {
+        "id": 86,
+        "name": {
+            "label": "multiple myeloma (MM) cells",
+            "record": 0.278812104
+        },
+        "parent": 5,
+        "size": 0.278812104,
+        "group": 4
+    },
+    {
+        "id": 87,
+        "name": {
+            "label": "myocardial ischemia reperfusion (I R) injury",
+            "record": 0.44969006
+        },
+        "parent": 65,
+        "size": 0.44969006,
+        "group": 7
+    },
+    {
+        "id": 88,
+        "name": {
+            "label": "reactive oxygen species (ROS)",
+            "record": 0.725936626
+        },
+        "parent": 31,
+        "size": 0.725936626,
+        "group": 4
+    },
+    {
+        "id": 89,
+        "name": {
+            "label": "Noonan syndrome (NS)",
+            "record": 0.37709196100000003
+        },
+        "parent": 46,
+        "size": 0.37709196100000003,
+        "group": 9
+    },
+    {
+        "id": 90,
+        "name": {
+            "label": "right ventricle (RV)",
+            "record": 0.435279398
+        },
+        "parent": 67,
+        "size": 0.435279398,
+        "group": 4
+    },
+    {
+        "id": 91,
+        "name": {
+            "label": "adipose tissue",
+            "record": 0.456261749
+        },
+        "parent": 53,
+        "size": 0.456261749,
+        "group": 6
+    },
+    {
+        "id": 92,
+        "name": {
+            "label": "long QT syndrome (LQTS)",
+            "record": 0.275835316
+        },
+        "parent": 45,
+        "size": 0.275835316,
+        "group": 9
+    },
+    {
+        "id": 93,
+        "name": {
+            "label": "venous thromboembolism (VTE)",
+            "record": 0.421048401
+        },
+        "parent": 19,
+        "size": 0.421048401,
+        "group": 10
+    },
+    {
+        "id": 94,
+        "name": {
+            "label": "autoimmune diseases",
+            "record": 0.607013159
+        },
+        "parent": 51,
+        "size": 0.607013159,
+        "group": 1
+    },
+    {
+        "id": 95,
+        "name": {
+            "label": "action potentials",
+            "record": 0.337481171
+        },
+        "parent": 27,
+        "size": 0.337481171,
+        "group": 7
+    },
+    {
+        "id": 96,
+        "name": {
+            "label": "psychiatric disorders",
+            "record": 0.238407841
+        },
+        "parent": 43,
+        "size": 0.238407841,
+        "group": 3
+    },
+    {
+        "id": 97,
+        "name": {
+            "label": "central nervous system (CNS)",
+            "record": 0.527211318
+        },
+        "parent": 50,
+        "size": 0.527211318,
+        "group": 11
+    },
+    {
+        "id": 98,
+        "name": {
+            "label": "williams syndrome (WS)",
+            "record": 0.150826671
+        },
+        "parent": 56,
+        "size": 0.150826671,
+        "group": 8
+    },
+    {
+        "id": 99,
+        "name": {
+            "label": "platelet aggregation",
+            "record": 0.15798327
+        },
+        "parent": 66,
+        "size": 0.15798327,
+        "group": 0
+    },
+    {
+        "id": 100,
+        "name": {
+            "label": "fatty liver",
+            "record": 0.05114111599999999
+        },
+        "parent": 11,
+        "size": 0.05114111599999999,
+        "group": 6
+    },
+    {
+        "id": 101,
+        "name": {
+            "label": "cardiac disease",
+            "record": 0.47730536799999995
+        },
+        "parent": 54,
+        "size": 0.47730536799999995,
+        "group": 2
+    },
+    {
+        "id": 102,
+        "name": {
+            "label": "cell therapy",
+            "record": 0.188482657
+        },
+        "parent": 68,
+        "size": 0.188482657,
+        "group": 7
+    },
+    {
+        "id": 103,
+        "name": {
+            "label": "genomic DNA",
+            "record": 0.31884303399999997
+        },
+        "parent": 62,
+        "size": 0.31884303399999997,
+        "group": 2
+    },
+    {
+        "id": 104,
+        "name": {
+            "label": "medical records",
+            "record": 0.140574259
+        },
+        "parent": 64,
+        "size": 0.140574259,
+        "group": 0
+    },
+    {
+        "id": 105,
+        "name": {
+            "label": "surgical treatment",
+            "record": 0.171094482
+        },
+        "parent": 49,
+        "size": 0.171094482,
+        "group": 9
+    },
+    {
+        "id": 106,
+        "name": {
+            "label": "oxygen consumption",
+            "record": 0.13002751199999998
+        },
+        "parent": 38,
+        "size": 0.13002751199999998,
+        "group": 7
+    },
+    {
+        "id": 107,
+        "name": {
+            "label": "cardiac involvement",
+            "record": 0.20294036899999998
+        },
+        "parent": 62,
+        "size": 0.20294036899999998,
+        "group": 2
+    },
+    {
+        "id": 108,
+        "name": {
+            "label": "cardiometabolic diseases",
+            "record": 0.27508157899999996
+        },
+        "parent": 43,
+        "size": 0.27508157899999996,
+        "group": 3
+    },
+    {
+        "id": 109,
+        "name": {
+            "label": "cardiac dysfunction",
+            "record": 0.468756758
+        },
+        "parent": 54,
+        "size": 0.468756758,
+        "group": 2
+    },
+    {
+        "id": 110,
+        "name": {
+            "label": "inflammatory response",
+            "record": 0.739271275
+        },
+        "parent": 71,
+        "size": 0.739271275,
+        "group": 13
+    },
+    {
+        "id": 111,
+        "name": {
+            "label": "general population",
+            "record": 0.54677731
+        },
+        "parent": 74,
+        "size": 0.54677731,
+        "group": 10
+    },
+    {
+        "id": 112,
+        "name": {
+            "label": "Arrhythmogenic right ventricular cardiomyopathy (ARVC)",
+            "record": 0.323764445
+        },
+        "parent": 33,
+        "size": 0.323764445,
+        "group": 9
+    },
+    {
+        "id": 113,
+        "name": {
+            "label": "molecular mechanisms",
+            "record": 1.00206651
+        },
+        "parent": 47,
+        "size": 1.00206651,
+        "group": 4
+    },
+    {
+        "id": 114,
+        "name": {
+            "label": "genetic disorder",
+            "record": 0.54563273
+        },
+        "parent": 49,
+        "size": 0.54563273,
+        "group": 9
+    },
+    {
+        "id": 115,
+        "name": {
+            "label": "polymerase chain reaction (PCR)",
+            "record": 0.174931682
+        },
+        "parent": 52,
+        "size": 0.174931682,
+        "group": 10
+    },
+    {
+        "id": 116,
+        "name": {
+            "label": "kidney disease",
+            "record": 0.358893987
+        },
+        "parent": 95,
+        "size": 0.358893987,
+        "group": 7
+    },
+    {
+        "id": 117,
+        "name": {
+            "label": "trisomy 13",
+            "record": 0.100539205
+        },
+        "parent": 49,
+        "size": 0.100539205,
+        "group": 9
+    },
+    {
+        "id": 118,
+        "name": {
+            "label": "infarct size",
+            "record": 0.197757008
+        },
+        "parent": 59,
+        "size": 0.197757008,
+        "group": 7
+    },
+    {
+        "id": 119,
+        "name": {
+            "label": "infective endocarditis (IE)",
+            "record": 0.37344349600000004
+        },
+        "parent": 79,
+        "size": 0.37344349600000004,
+        "group": 0
+    },
+    {
+        "id": 120,
+        "name": {
+            "label": "ischemia-reperfusion (IR) injury",
+            "record": 0.6631449220000001
+        },
+        "parent": 71,
+        "size": 0.6631449220000001,
+        "group": 13
+    },
+    {
+        "id": 121,
+        "name": {
+            "label": "infarct volume",
+            "record": 0.429270476
+        },
+        "parent": 50,
+        "size": 0.429270476,
+        "group": 11
+    },
+    {
+        "id": 122,
+        "name": {
+            "label": "breast cancer (BC)",
+            "record": 0.28839717
+        },
+        "parent": 70,
+        "size": 0.28839717,
+        "group": 6
+    },
+    {
+        "id": 123,
+        "name": {
+            "label": "heart transplantation",
+            "record": 0.224537557
+        },
+        "parent": 22,
+        "size": 0.224537557,
+        "group": 2
+    },
+    {
+        "id": 124,
+        "name": {
+            "label": "blood vessels",
+            "record": 0.48129286
+        },
+        "parent": 48,
+        "size": 0.48129286,
+        "group": 0
+    },
+    {
+        "id": 125,
+        "name": {
+            "label": "neurodegenerative diseases",
+            "record": 0.60289928
+        },
+        "parent": 73,
+        "size": 0.60289928,
+        "group": 5
+    },
+    {
+        "id": 126,
+        "name": {
+            "label": "cardiac amyloidosis",
+            "record": 0.164855809
+        },
+        "parent": 107,
+        "size": 0.164855809,
+        "group": 2
+    },
+    {
+        "id": 127,
+        "name": {
+            "label": "adult heart",
+            "record": 0.145278774
+        },
+        "parent": 7,
+        "size": 0.145278774,
+        "group": 3
+    },
+    {
+        "id": 128,
+        "name": {
+            "label": "genetic variation",
+            "record": 0.407634765
+        },
+        "parent": 75,
+        "size": 0.407634765,
+        "group": 8
+    },
+    {
+        "id": 129,
+        "name": {
+            "label": "blood flow",
+            "record": 0.33755836200000006
+        },
+        "parent": 98,
+        "size": 0.33755836200000006,
+        "group": 8
+    },
+    {
+        "id": 130,
+        "name": {
+            "label": "vascular malformations",
+            "record": 0.07216900400000001
+        },
+        "parent": 63,
+        "size": 0.07216900400000001,
+        "group": 12
+    },
+    {
+        "id": 131,
+        "name": {
+            "label": "potential therapeutic target",
+            "record": 0.47877061
+        },
+        "parent": 96,
+        "size": 0.47877061,
+        "group": 3
+    },
+    {
+        "id": 132,
+        "name": {
+            "label": "protein C",
+            "record": 0.102001185
+        },
+        "parent": 93,
+        "size": 0.102001185,
+        "group": 10
+    },
+    {
+        "id": 133,
+        "name": {
+            "label": "wild-type mice",
+            "record": 0.516686228
+        },
+        "parent": 100,
+        "size": 0.516686228,
+        "group": 6
+    },
+    {
+        "id": 134,
+        "name": {
+            "label": "Hypertension (HTN)",
+            "record": 0.35905080899999997
+        },
+        "parent": 57,
+        "size": 0.35905080899999997,
+        "group": 10
+    },
+    {
+        "id": 135,
+        "name": {
+            "label": "pulmonary hypertension",
+            "record": 0.405794086
+        },
+        "parent": 85,
+        "size": 0.405794086,
+        "group": 0
+    },
+    {
+        "id": 136,
+        "name": {
+            "label": "thoracic aortic aneurysm dissection (TAAD)",
+            "record": 0.33647371
+        },
+        "parent": 81,
+        "size": 0.33647371,
+        "group": 1
+    },
+    {
+        "id": 137,
+        "name": {
+            "label": "angiotensin II (Ang II)",
+            "record": 0.426969747
+        },
+        "parent": 66,
+        "size": 0.426969747,
+        "group": 0
+    },
+    {
+        "id": 138,
+        "name": {
+            "label": "protein expression",
+            "record": 0.497012881
+        },
+        "parent": 38,
+        "size": 0.497012881,
+        "group": 7
+    },
+    {
+        "id": 139,
+        "name": {
+            "label": "MM cells",
+            "record": 0.12145384
+        },
+        "parent": 16,
+        "size": 0.12145384,
+        "group": 5
+    },
+    {
+        "id": 140,
+        "name": {
+            "label": "somatic mutations",
+            "record": 0.086729296
+        },
+        "parent": 82,
+        "size": 0.086729296,
+        "group": 12
+    },
+    {
+        "id": 141,
+        "name": {
+            "label": "bicuspid aortic valve (BAV) disease",
+            "record": 0.250135942
+        },
+        "parent": 101,
+        "size": 0.250135942,
+        "group": 2
+    },
+    {
+        "id": 142,
+        "name": {
+            "label": "allele frequencies",
+            "record": 0.22539481600000003
+        },
+        "parent": 19,
+        "size": 0.22539481600000003,
+        "group": 10
+    },
+    {
+        "id": 143,
+        "name": {
+            "label": "cardiac arrhythmias",
+            "record": 0.265753628
+        },
+        "parent": 103,
+        "size": 0.265753628,
+        "group": 2
+    },
+    {
+        "id": 144,
+        "name": {
+            "label": "extracellular vesicles (EVs)",
+            "record": 0.179342835
+        },
+        "parent": 55,
+        "size": 0.179342835,
+        "group": 5
+    },
+    {
+        "id": 145,
+        "name": {
+            "label": "diastolic blood pressure (DBP)",
+            "record": 0.19256211899999998
+        },
+        "parent": 83,
+        "size": 0.19256211899999998,
+        "group": 10
+    },
+    {
+        "id": 146,
+        "name": {
+            "label": "ischemic injury",
+            "record": 0.270073204
+        },
+        "parent": 97,
+        "size": 0.270073204,
+        "group": 11
+    },
+    {
+        "id": 147,
+        "name": {
+            "label": "ataxia-telangiectasia (A-T)",
+            "record": 0.161631083
+        },
+        "parent": 69,
+        "size": 0.161631083,
+        "group": 6
+    },
+    {
+        "id": 148,
+        "name": {
+            "label": "human immunodeficiency virus (HIV) infection",
+            "record": 0.11640135199999999
+        },
+        "parent": 58,
+        "size": 0.11640135199999999,
+        "group": 3
+    },
+    {
+        "id": 149,
+        "name": {
+            "label": "high-fat diet (HFD)",
+            "record": 0.44294965799999997
+        },
+        "parent": 91,
+        "size": 0.44294965799999997,
+        "group": 6
+    },
+    {
+        "id": 150,
+        "name": {
+            "label": "abdominal pain",
+            "record": 0.085859071
+        },
+        "parent": 90,
+        "size": 0.085859071,
+        "group": 4
+    },
+    {
+        "id": 151,
+        "name": {
+            "label": "diverse populations",
+            "record": 0.071828141
+        },
+        "parent": 96,
+        "size": 0.071828141,
+        "group": 3
+    },
+    {
+        "id": 152,
+        "name": {
+            "label": "giant cell arteritis (GCA)",
+            "record": 0.019065902
+        },
+        "parent": 94,
+        "size": 0.019065902,
+        "group": 1
+    },
+    {
+        "id": 153,
+        "name": {
+            "label": "life-threatening disease",
+            "record": 0.08981581599999999
+        },
+        "parent": 72,
+        "size": 0.08981581599999999,
+        "group": 6
+    },
+    {
+        "id": 154,
+        "name": {
+            "label": "male Wistar rats",
+            "record": 0.12991421
+        },
+        "parent": 65,
+        "size": 0.12991421,
+        "group": 7
+    },
+    {
+        "id": 155,
+        "name": {
+            "label": "sinus rhythm",
+            "record": 0.059001687000000004
+        },
+        "parent": 99,
+        "size": 0.059001687000000004,
+        "group": 0
+    },
+    {
+        "id": 156,
+        "name": {
+            "label": "biochemical markers",
+            "record": 0.064618168
+        },
+        "parent": 77,
+        "size": 0.064618168,
+        "group": 8
+    },
+    {
+        "id": 157,
+        "name": {
+            "label": "promising results",
+            "record": 0.084453962
+        },
+        "parent": 28,
+        "size": 0.084453962,
+        "group": 10
+    },
+    {
+        "id": 158,
+        "name": {
+            "label": "hypertensive rats (SHRSP)",
+            "record": 0.256933523
+        },
+        "parent": 76,
+        "size": 0.256933523,
+        "group": 4
+    },
+    {
+        "id": 159,
+        "name": {
+            "label": "western blot",
+            "record": 0.5570974329999999
+        },
+        "parent": 10,
+        "size": 0.5570974329999999,
+        "group": 4
+    },
+    {
+        "id": 160,
+        "name": {
+            "label": "environmental factors",
+            "record": 0.34833527799999997
+        },
+        "parent": 124,
+        "size": 0.34833527799999997,
+        "group": 0
+    },
+    {
+        "id": 161,
+        "name": {
+            "label": "flow cytometry",
+            "record": 0.237096201
+        },
+        "parent": 90,
+        "size": 0.237096201,
+        "group": 4
+    },
+    {
+        "id": 162,
+        "name": {
+            "label": "percutaneous coronary intervention (PCI)",
+            "record": 0.140294103
+        },
+        "parent": 115,
+        "size": 0.140294103,
+        "group": 10
+    },
+    {
+        "id": 163,
+        "name": {
+            "label": "neuroprotective effects",
+            "record": 0.35937138399999996
+        },
+        "parent": 121,
+        "size": 0.35937138399999996,
+        "group": 11
+    },
+    {
+        "id": 164,
+        "name": {
+            "label": "rare disease",
+            "record": 0.128852752
+        },
+        "parent": 105,
+        "size": 0.128852752,
+        "group": 9
+    },
+    {
+        "id": 165,
+        "name": {
+            "label": "genetic risk factors",
+            "record": 0.134230379
+        },
+        "parent": 132,
+        "size": 0.134230379,
+        "group": 10
+    },
+    {
+        "id": 166,
+        "name": {
+            "label": "atherosclerotic lesions",
+            "record": 0.469737784
+        },
+        "parent": 110,
+        "size": 0.469737784,
+        "group": 13
+    },
+    {
+        "id": 167,
+        "name": {
+            "label": "bioinformatics analysis",
+            "record": 0.258637813
+        },
+        "parent": 61,
+        "size": 0.258637813,
+        "group": 5
+    },
+    {
+        "id": 168,
+        "name": {
+            "label": "Alzheimer s disease (AD)",
+            "record": 0.509332322
+        },
+        "parent": 110,
+        "size": 0.509332322,
+        "group": 13
+    },
+    {
+        "id": 169,
+        "name": {
+            "label": "chronic kidney disease (CKD)",
+            "record": 0.342346586
+        },
+        "parent": 51,
+        "size": 0.342346586,
+        "group": 1
+    },
+    {
+        "id": 170,
+        "name": {
+            "label": "venous thrombosis",
+            "record": 0.16784918399999998
+        },
+        "parent": 93,
+        "size": 0.16784918399999998,
+        "group": 10
+    },
+    {
+        "id": 171,
+        "name": {
+            "label": "hereditary angioedema (HAE)",
+            "record": 0.146240444
+        },
+        "parent": 130,
+        "size": 0.146240444,
+        "group": 12
+    },
+    {
+        "id": 172,
+        "name": {
+            "label": "insulin sensitivity",
+            "record": 0.15556863099999999
+        },
+        "parent": 149,
+        "size": 0.15556863099999999,
+        "group": 6
+    },
+    {
+        "id": 173,
+        "name": {
+            "label": "high rate",
+            "record": 0.120675111
+        },
+        "parent": 8,
+        "size": 0.120675111,
+        "group": 5
+    },
+    {
+        "id": 174,
+        "name": {
+            "label": "logistic regression analysis",
+            "record": 0.233403196
+        },
+        "parent": 75,
+        "size": 0.233403196,
+        "group": 8
+    },
+    {
+        "id": 175,
+        "name": {
+            "label": "familial hypercholesterolaemia (FH)",
+            "record": 0.501807363
+        },
+        "parent": 114,
+        "size": 0.501807363,
+        "group": 9
+    },
+    {
+        "id": 176,
+        "name": {
+            "label": "gain-of-function mutations",
+            "record": 0.109908376
+        },
+        "parent": 140,
+        "size": 0.109908376,
+        "group": 12
+    },
+    {
+        "id": 177,
+        "name": {
+            "label": "heart rate (HR)",
+            "record": 0.205258523
+        },
+        "parent": 103,
+        "size": 0.205258523,
+        "group": 2
+    },
+    {
+        "id": 178,
+        "name": {
+            "label": "blood samples",
+            "record": 0.337069065
+        },
+        "parent": 111,
+        "size": 0.337069065,
+        "group": 10
+    },
+    {
+        "id": 179,
+        "name": {
+            "label": "genetic analysis",
+            "record": 0.28021569
+        },
+        "parent": 102,
+        "size": 0.28021569,
+        "group": 7
+    },
+    {
+        "id": 180,
+        "name": {
+            "label": "functional characteristics",
+            "record": 0.18352336100000002
+        },
+        "parent": 147,
+        "size": 0.18352336100000002,
+        "group": 6
+    },
+    {
+        "id": 181,
+        "name": {
+            "label": "B cells",
+            "record": 0.128759084
+        },
+        "parent": 152,
+        "size": 0.128759084,
+        "group": 1
+    },
+    {
+        "id": 182,
+        "name": {
+            "label": "inhibitory effect",
+            "record": 0.21136372399999998
+        },
+        "parent": 135,
+        "size": 0.21136372399999998,
+        "group": 0
+    },
+    {
+        "id": 183,
+        "name": {
+            "label": "expression levels",
+            "record": 0.49297583100000003
+        },
+        "parent": 61,
+        "size": 0.49297583100000003,
+        "group": 5
+    },
+    {
+        "id": 184,
+        "name": {
+            "label": "immune system",
+            "record": 0.08441041699999999
+        },
+        "parent": 131,
+        "size": 0.08441041699999999,
+        "group": 3
+    },
+    {
+        "id": 185,
+        "name": {
+            "label": "Cardiac Development",
+            "record": 0.07310939999999999
+        },
+        "parent": 39,
+        "size": 0.07310939999999999,
+        "group": 6
+    },
+    {
+        "id": 186,
+        "name": {
+            "label": "Kawasaki disease (KD)",
+            "record": 0.329907452
+        },
+        "parent": 38,
+        "size": 0.329907452,
+        "group": 7
+    },
+    {
+        "id": 187,
+        "name": {
+            "label": "aortic valve",
+            "record": 0.110768155
+        },
+        "parent": 141,
+        "size": 0.110768155,
+        "group": 2
+    },
+    {
+        "id": 188,
+        "name": {
+            "label": "waldenstrom macroglobulinemia (WM)",
+            "record": 0.126176283
+        },
+        "parent": 140,
+        "size": 0.126176283,
+        "group": 12
+    },
+    {
+        "id": 189,
+        "name": {
+            "label": "factor V Leiden (FVL)",
+            "record": 0.10140806
+        },
+        "parent": 132,
+        "size": 0.10140806,
+        "group": 10
+    },
+    {
+        "id": 190,
+        "name": {
+            "label": "cardioprotective effects",
+            "record": 0.226135303
+        },
+        "parent": 118,
+        "size": 0.226135303,
+        "group": 7
+    },
+    {
+        "id": 191,
+        "name": {
+            "label": "Danon disease (DD)",
+            "record": 0.027982157
+        },
+        "parent": 102,
+        "size": 0.027982157,
+        "group": 7
+    },
+    {
+        "id": 192,
+        "name": {
+            "label": "abdominal aortic aneurysm (AAA)",
+            "record": 0.13707755300000002
+        },
+        "parent": 136,
+        "size": 0.13707755300000002,
+        "group": 1
+    },
+    {
+        "id": 193,
+        "name": {
+            "label": "human health",
+            "record": 0.146704204
+        },
+        "parent": 73,
+        "size": 0.146704204,
+        "group": 5
+    },
+    {
+        "id": 194,
+        "name": {
+            "label": "genetic component",
+            "record": 0.038891436
+        },
+        "parent": 128,
+        "size": 0.038891436,
+        "group": 8
+    },
+    {
+        "id": 195,
+        "name": {
+            "label": "NOTCH signaling",
+            "record": 0.029381265
+        },
+        "parent": 146,
+        "size": 0.029381265,
+        "group": 11
+    },
+    {
+        "id": 196,
+        "name": {
+            "label": "case series",
+            "record": 0.049735527
+        },
+        "parent": 101,
+        "size": 0.049735527,
+        "group": 2
+    },
+    {
+        "id": 197,
+        "name": {
+            "label": "genetic risk score (GRS)",
+            "record": 0.040083577999999995
+        },
+        "parent": 77,
+        "size": 0.040083577999999995,
+        "group": 8
+    },
+    {
+        "id": 198,
+        "name": {
+            "label": "non-alcoholic fatty liver disease (NAFLD)",
+            "record": 0.083765098
+        },
+        "parent": 91,
+        "size": 0.083765098,
+        "group": 6
+    },
+    {
+        "id": 199,
+        "name": {
+            "label": "vascular smooth muscle cells (VSMCs)",
+            "record": 0.137218609
+        },
+        "parent": 166,
+        "size": 0.137218609,
+        "group": 13
+    },
+    {
+        "id": 200,
+        "name": {
+            "label": "cerebrovascular disease",
+            "record": 0.087781764
+        },
+        "parent": 160,
+        "size": 0.087781764,
+        "group": 0
+    },
+    {
+        "id": 201,
+        "name": {
+            "label": "blood cultures",
+            "record": 0.12501870199999998
+        },
+        "parent": 125,
+        "size": 0.12501870199999998,
+        "group": 5
+    },
+    {
+        "id": 202,
+        "name": {
+            "label": "Ehlers-Danlos syndrome (EDS)",
+            "record": 0.047847130999999994
+        },
+        "parent": 175,
+        "size": 0.047847130999999994,
+        "group": 9
+    },
+    {
+        "id": 203,
+        "name": {
+            "label": "tumour necrosis factor-alpha (TNF-alpha)",
+            "record": 0.128486515
+        },
+        "parent": 166,
+        "size": 0.128486515,
+        "group": 13
+    },
+    {
+        "id": 204,
+        "name": {
+            "label": "atherosclerotic cardiovascular disease (ASCVD)",
+            "record": 0.237999995
+        },
+        "parent": 111,
+        "size": 0.237999995,
+        "group": 10
+    },
+    {
+        "id": 205,
+        "name": {
+            "label": "CC genotype",
+            "record": 0.046014676
+        },
+        "parent": 77,
+        "size": 0.046014676,
+        "group": 8
+    },
+    {
+        "id": 206,
+        "name": {
+            "label": "risk stratification",
+            "record": 0.042847962999999996
+        },
+        "parent": 36,
+        "size": 0.042847962999999996,
+        "group": 3
+    },
+    {
+        "id": 207,
+        "name": {
+            "label": "cell proliferation",
+            "record": 0.080317469
+        },
+        "parent": 161,
+        "size": 0.080317469,
+        "group": 4
+    },
+    {
+        "id": 208,
+        "name": {
+            "label": "genetic mutations",
+            "record": 0.148253735
+        },
+        "parent": 169,
+        "size": 0.148253735,
+        "group": 1
+    }
+]
