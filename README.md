@@ -79,7 +79,7 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 ## Graphical attributes meanings
 1.Current year will be display in the middle of the graph
-2.
+
 ![image](https://user-images.githubusercontent.com/70006591/117805258-55865f80-b28b-11eb-9e78-b6b3acdf5b56.png)
 
 
