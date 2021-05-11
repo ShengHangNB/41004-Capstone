@@ -1,4 +1,14 @@
-# Capstone
+# Capstone - Dynamic Radial Tree layout Visualization
+
+![image](https://user-images.githubusercontent.com/70006591/117807515-4c4ac200-b28e-11eb-8544-ab69e1e926b2.png)
+
+Teammember:
+Hang Sheng
+Longhao Zhu
+Xiaoju Ma
+Zhenhuan Yu
+Anthony Ghassibe
+
 
 ## Key library Version <br>
 networkx:  2.5.1 <br>
