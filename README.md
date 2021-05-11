@@ -2,12 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/70006591/117807515-4c4ac200-b28e-11eb-8544-ab69e1e926b2.png)
 
-Teammember:
-Hang Sheng
-Longhao Zhu
-Xiaoju Ma
-Zhenhuan Yu
-Anthony Ghassibe
+Teammember: <br>
+Hang Sheng <br>
+Longhao Zhu <br>
+Xiaoju Ma <br>
+Zhenhuan Yu <br>
+Anthony Ghassibe <br>
 
 
 ## Key library Version <br>
