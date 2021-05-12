@@ -44,17 +44,15 @@ Resolution: By default 1.0, the higher the value, the fewer the number of commun
 
 
 2.Select the visualization layout in the file “run_vega_visualization”
-![image](https://user-images.githubusercontent.com/70006591/117805206-499a9d80-b28b-11eb-9f0c-6cadf0cb96bd.png)
 
+![image](https://user-images.githubusercontent.com/70006591/118007423-b5116780-b37e-11eb-9056-11d509108534.png)
 
 spec1: General Tree layout<br>
 spec2: Radial Tree layout <br>
 
 Then run the html file in browser in either one way below:
 
-![image](https://user-images.githubusercontent.com/70006591/117805219-4bfcf780-b28b-11eb-9aed-2da3a8aa6644.png)
-
-
+![image](https://user-images.githubusercontent.com/70006591/118007527-cc505500-b37e-11eb-9cdf-2ccb999fa249.png)
 
 3.Scroll the bars on the right and below until you see the initial node
 
