@@ -55,12 +55,11 @@ Then run the html file in browser (Recommend Google Chrome) in either one way be
 
 3.Scroll the bars on the right and below until you see the initial node
 
-![image](https://user-images.githubusercontent.com/70006591/117805237-4f907e80-b28b-11eb-9819-817ca8a79e77.png)
-
+![image](https://user-images.githubusercontent.com/70006591/118008173-6c0de300-b37f-11eb-95aa-63f27663ecbc.png)
 
 Scroll to the bottom left corner of the page until you can see a series of navigation boxes.
 
-![image](https://user-images.githubusercontent.com/70006591/117805246-51f2d880-b28b-11eb-920f-d469abd9dab7.png)
+![image](https://user-images.githubusercontent.com/70006591/118008287-7fb94980-b37f-11eb-879a-584f3ad7d957.png)
 
 Move the node in the “year” bar and then you will see the change in the graph.
 
