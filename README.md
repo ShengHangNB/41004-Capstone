@@ -13,10 +13,8 @@ Bibliometrics is known as the development and application of statistical approac
 
 Supervisor: Yi Zhang, Mengjia Wu
 
-Team information <br>
-Team leader: Hang Sheng 13665664
-
 Team members: <br>
+Hang Sheng 13665664 <br>
 Longhao Zhu 13674938<br>
 Xiaoju Ma 13261185<br>
 Zhenhuan Yu 13491865<br>
