@@ -100,7 +100,7 @@ Move the node in the “year” bar and then you will see the change in the grap
 ![image](https://user-images.githubusercontent.com/70006591/117805294-5f0fc780-b28b-11eb-9a3a-2a80ab53eccd.png)
 
 
-If the end year of all edges and edges are reached, the graph will become like this:
+If the end year of all edges and edges are reached, all nodes and edges will die, the graph will become like this:
 
 ![image](https://user-images.githubusercontent.com/70006591/117805935-2ae8d680-b28c-11eb-9de7-eae7add38818.png)
 
