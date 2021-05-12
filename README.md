@@ -91,11 +91,11 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 ![image](https://user-images.githubusercontent.com/70006591/117805275-5a4b1380-b28b-11eb-9e7d-9c2696c27c64.png)
 
-4.As year goes by, some nodes will die (current year > node’s end year), all these died node will be converted to hollow circle with orange border, with the disappearance of the label name. But the user still can know the information of this nodes if hovering the mouse in it.
+4.As year goes by, some nodes will die (current year > node’s end year), all these died node will be converted to hollow circle with orange border, with the disappearance of the label name. But the user still can know the information of this node if hovering the mouse in it.
 
 ![image](https://user-images.githubusercontent.com/70006591/117805285-5cad6d80-b28b-11eb-8298-b765c2412b16.png)
 
-5.As year goes by, some edges will die as well (current year > weight’s end year), all these died line will be converted into orange dashed line. The user can still know the information of this nodes if hovering the mouse in it.
+5.As year goes by, some edges will die as well (current year > weight’s end year), all these died line will be converted into orange dashed line. The user can still know the information of this edge if hovering the mouse in it.
 
 ![image](https://user-images.githubusercontent.com/70006591/117805294-5f0fc780-b28b-11eb-9a3a-2a80ab53eccd.png)
 
