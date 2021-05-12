@@ -129,9 +129,9 @@ The purpose of this alternative tree layout visualization is to avoid the label 
 ## One more important thing
 If you change other dataset, you should change the signal range in both “General_Tree.json” and “Radial_Tree.json” files.
 
-![image](https://user-images.githubusercontent.com/70006591/117805414-89618500-b28b-11eb-9473-c2573f6b16a8.png)
-
+![image](https://user-images.githubusercontent.com/70006591/118012080-45ea4200-b383-11eb-967a-ea3400540666.png)
 
 The min and max value can be referenced in the start year and the end year of the root node in the “Radial_Tree_data.json” after you run the “csv_to_json.py” script.
 
-![image](https://user-images.githubusercontent.com/70006591/117805422-8bc3df00-b28b-11eb-9cee-6e8a21dd921d.png)
+![image](https://user-images.githubusercontent.com/70006591/118012126-513d6d80-b383-11eb-8b22-864c966bed33.png)
+
