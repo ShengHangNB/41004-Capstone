@@ -63,7 +63,7 @@ Scroll to the bottom left corner of the page until you can see a series of navig
 
 Move the node in the “year” bar and then you will see the change in the graph.
 
-## Other function in the navigation boxes
+## Description for other navigation bars
 1.label: display the node label or not in the graph. <br>
 2.nodeSize: change the node size based on the “record” attribute 	in the node dataset. (Avoid the node overlap)  <br>
 3.edgeSize: change the edge size based on the “weight” attribute 	in the edge dataset.  <br>
