@@ -111,6 +111,9 @@ There is an alternative tree layout visualization provided, the user can simply 
 
 ![image](https://user-images.githubusercontent.com/70006591/118007034-5ba93880-b37e-11eb-875e-96d643fb6246.png)
 
+![image](https://user-images.githubusercontent.com/70006591/118008724-ee96a280-b37f-11eb-98ca-1183f0beae2b.png)
+
+The purpose of this alternative tree layout visualization is to avoid the label overlap and give an intuition for users about the hierarchical level of the tree.
 
 ## One more important thing
 If you change other dataset, you should change the signal range in both “General_Tree.json” and “Radial_Tree.json” files.
