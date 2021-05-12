@@ -114,7 +114,7 @@ For example, the screenshot below shows four different communities with some nod
 
 If the end year of all edges and edges are reached, all nodes and edges will die, the graph will become like this:
 
-![image](https://user-images.githubusercontent.com/70006591/117805935-2ae8d680-b28c-11eb-9de7-eae7add38818.png)
+![image](https://user-images.githubusercontent.com/70006591/118010223-687b5b80-b381-11eb-915c-0a45bbb7823c.png)
 
 ## Alternative tree layout visualization
 
