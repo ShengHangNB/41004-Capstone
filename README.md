@@ -110,6 +110,13 @@ If the end year of all edges and edges are reached, all nodes and edges will die
 
 ![image](https://user-images.githubusercontent.com/70006591/117805935-2ae8d680-b28c-11eb-9de7-eae7add38818.png)
 
+## Alternative tree layout visualization
+
+There is an alternative tree layout visualization provided, the user can simply change the variable here.
+
+![image](https://user-images.githubusercontent.com/70006591/118007034-5ba93880-b37e-11eb-875e-96d643fb6246.png)
+
+
 ## One more important thing
 If you change other dataset, you should change the signal range in both “General_Tree.json” and “Radial_Tree.json” files.
 
