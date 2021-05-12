@@ -101,7 +101,10 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 6. The different colors of the nodes represent that the nodes are located in different communities, the nodes in the same community mean they have a certain relationship.
 
-![image](https://user-images.githubusercontent.com/70006591/118005393-ed17ab00-b37c-11eb-9bb8-b799f92bc62e.png)
+For example, the screenshot below shows four different communities with some nodes in each of them, along with a dead node displayed as a hollow circle with orange border.
+
+![image](https://user-images.githubusercontent.com/70006591/118005675-2c45fc00-b37d-11eb-95b0-7e353f015a7a.png)
+
 
 
 If the end year of all edges and edges are reached, all nodes and edges will die, the graph will become like this:
