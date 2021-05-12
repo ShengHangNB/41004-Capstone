@@ -40,8 +40,7 @@ If you select “choice = 2” in community_detection(), you will type the numbe
 
 Resolution: By default 1.0, the higher the value, the fewer the number of communities.
 
-![image](https://user-images.githubusercontent.com/70006591/117805193-47384380-b28b-11eb-83e0-336268a3aab4.png)
-
+![image](https://user-images.githubusercontent.com/70006591/118007921-2fda8280-b37f-11eb-9fbb-7fe6c9d1ad9c.png)
 
 2.Select the visualization layout in the file “run_vega_visualization”
 
