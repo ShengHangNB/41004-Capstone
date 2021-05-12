@@ -50,7 +50,7 @@ Resolution: By default 1.0, the higher the value, the fewer the number of commun
 spec1: General Tree layout<br>
 spec2: Radial Tree layout <br>
 
-Then run the html file in browser in either one way below:
+Then run the html file in browser (Recommend Google Chrome) in either one way below:
 
 ![image](https://user-images.githubusercontent.com/70006591/118007527-cc505500-b37e-11eb-9cdf-2ccb999fa249.png)
 
