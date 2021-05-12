@@ -34,8 +34,7 @@ if you have installed community, please use "pip uninstall community" to uninsta
 
 1.Select the dataset you want to converted, the community detection choice you want and run the script “csv_to_json.py” file. 
 
-![image](https://user-images.githubusercontent.com/70006591/117805177-41426280-b28b-11eb-85ff-9b0b10970d67.png)
-
+![image](https://user-images.githubusercontent.com/70006591/118007284-98752f80-b37e-11eb-9dff-b9df093aad84.png)
 
 If you select “choice = 2” in community_detection(), you will type the number of resolution and whether you want to consider weight.
 
