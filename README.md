@@ -11,7 +11,7 @@ Bibliometrics is known as the development and application of statistical approac
 
 University of Technology Sydney
 
-Supervisor: Yi Zhang, Mengjia Wu
+Supervisors: Yi Zhang, Mengjia Wu
 
 Team members: <br>
 Hang Sheng 13665664 <br>
