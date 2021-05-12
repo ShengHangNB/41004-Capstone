@@ -99,7 +99,7 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 ![image](https://user-images.githubusercontent.com/70006591/117805294-5f0fc780-b28b-11eb-9a3a-2a80ab53eccd.png)
 
-6. The different colors of the nodes represent that the nodes are located in different communities, the nodes in the same community mean they have a certain relationship.
+6.The different colors of the nodes represent that the nodes are located in different communities, the nodes in the same community mean they have a certain relationship.
 
 For example, the screenshot below shows four different communities with some nodes in each of them, along with a dead node displayed as a hollow circle with an orange border.
 
