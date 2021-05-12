@@ -2,11 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/70006591/117807515-4c4ac200-b28e-11eb-8544-ab69e1e926b2.png)
 
-# Overview
+# Project Title: Intelligent Bibliometrics for Knowledge Discovery
 
-Project Title: Intelligent Bibliometrics for Knowledge Discovery
-
-project overview:<br>
+overview:<br>
 Bibliometrics is known as the development and application of statistical approaches for analysing scientific documents (e.g., research articles, patents, and academic proposals), and its incorporation with artificial intelligence techniques, we call intelligent bibliometrics, further enhances its capabilities in handling large scale data analytics, discovering latent and complicated relationships, and developing robust models.
 
 University of Technology Sydney
