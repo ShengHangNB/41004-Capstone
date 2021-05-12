@@ -95,7 +95,7 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 ![image](https://user-images.githubusercontent.com/70006591/117805285-5cad6d80-b28b-11eb-8298-b765c2412b16.png)
 
-5.As year goes by, some nodes will die as well (current year > weight’s end year), all these died line will be converted into orange dashed line. The user can still know the information of this nodes if hovering the mouse in it.
+5.As year goes by, some edges will die as well (current year > weight’s end year), all these died line will be converted into orange dashed line. The user can still know the information of this nodes if hovering the mouse in it.
 
 ![image](https://user-images.githubusercontent.com/70006591/117805294-5f0fc780-b28b-11eb-9a3a-2a80ab53eccd.png)
 
