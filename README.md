@@ -7,7 +7,6 @@ University of Technology Sydney
 Team leader: Hang Sheng 13665664
 
 Team members: <br>
-Hang Sheng <br>
 Longhao Zhu 13674938<br>
 Xiaoju Ma 13261185<br>
 Zhenhuan Yu 13491865<br>
