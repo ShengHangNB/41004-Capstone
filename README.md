@@ -97,11 +97,11 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 ![image](https://user-images.githubusercontent.com/70006591/117805275-5a4b1380-b28b-11eb-9e7d-9c2696c27c64.png)
 
-4.As year goes by, some nodes will die (current year > node’s end year), all these died node will be converted to hollow circle with orange border, with the disappearance of the label name. But the user still can know the information of this node if hovering the mouse in it.
+4.As year goes by, some nodes will be invalid (current year > node’s end year), all these invalid node will be converted to hollow circle with orange border, with the disappearance of the label name. But the user still can know the information of this node if hovering the mouse in it.
 
 ![image](https://user-images.githubusercontent.com/70006591/117805285-5cad6d80-b28b-11eb-8298-b765c2412b16.png)
 
-5.As year goes by, some edges will die as well (current year > weight’s end year), all these died line will be converted into orange dashed line. The user can still know the information of this edge if hovering the mouse in it.
+5.As year goes by, some edges will be invalid as well (current year > weight’s end year), all these invalid line will be converted into orange dashed line. The user can still know the information of this edge if hovering the mouse in it.
 
 ![image](https://user-images.githubusercontent.com/70006591/117805294-5f0fc780-b28b-11eb-9a3a-2a80ab53eccd.png)
 
@@ -109,12 +109,27 @@ Move the node in the “year” bar and then you will see the change in the grap
 
 For example, the screenshot below shows four different communities with some nodes in each of them. The dead node displayed as a hollow circle with an orange border is not located in any community any more, if the user wants to know which community the dead nodes locate, they can move back to the previous years to see it.
 
-![image](https://user-images.githubusercontent.com/70006591/118005675-2c45fc00-b37d-11eb-95b0-7e353f015a7a.png)
+![image](https://user-images.githubusercontent.com/70006591/119003034-fb3e7a80-b9bf-11eb-86ac-db7d6d3243eb.png)
 
 
-If the end year of all edges and edges are reached, all nodes and edges will die, the graph will become like this:
+If the end year of all edges and edges are reached, all nodes and edges will become invalid, the graph will become like this:
 
 ![image](https://user-images.githubusercontent.com/70006591/118010223-687b5b80-b381-11eb-915c-0a45bbb7823c.png)
+
+7. Additional functions
+
+In addition, when the user moves to the upper right corner of the page, he can see a button with three dots. When the user clicks this button, the following four options will appear, their meanings are:
+
+Save as SVG: The current graph will be downloaded as a SVG image. SVG is a vector image format which uses geometric forms to represent different parts as discrete objects and are infinitely scalable. <br>
+
+Save as PNG: The current graph will be downloaded as a PNG image. <br>
+
+View Source: The layout visualization source code will be viewed. <br>
+
+Open in Vega Editor: The online Vega editor will be opened but the graph will not display, the user should manually change the dataset input path in the online editor. <br>
+
+![image](https://user-images.githubusercontent.com/70006591/119003205-20cb8400-b9c0-11eb-937e-a2c2bb59ae73.png)
+
 
 ## Alternative tree layout visualization
 
